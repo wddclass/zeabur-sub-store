@@ -1,0 +1,23 @@
+{
+  "name": "zeabur-sub-store",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sub-store-bundled.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wddclass/zeabur-sub-store.git"
+  },
+  "keywords": [
+    "sub-store",
+    "zeabur"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wddclass/zeabur-sub-store/issues"
+  },
+  "homepage": "https://github.com/wddclass/zeabur-sub-store#readme"
+}
